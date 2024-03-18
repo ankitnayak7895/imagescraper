@@ -1,0 +1,92 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name 'os' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:00:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:root:name 'BeautifulSoup' is not defined
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.21:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:52] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 23:01:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.9:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.20.10.9 - - [22/Feb/2023 11:24:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.2.198:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:13:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:13:12] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:13:12] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:bad auth : Authentication failed., full error: {'ok': 0, 'errmsg': 'bad auth : Authentication failed.', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:16:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:17:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:17:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:17:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:17:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:17:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jul/2023 11:24:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 10:51:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 10:51:10] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 10:51:10] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 10:51:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 10:52:17] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 10:52:17] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 11:11:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 11:11:42] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 11:11:42] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 11:11:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 11:12:29] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=toyotainnova&sxsrf=AJOqlzUuff1RXi2mm8I_OqOwT9VjfIDL7w:1676996143273&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiq-qK7gaf9AhXUgVYBHYReAfYQ_AUoA3oECAEQBQ&biw=1920&bih=937&dpr=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78e75e871480>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 12:13:23] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:HTTPSConnectionPool(host='www.google.com', port=443): Max retries exceeded with url: /search?q=toyotafortuner&sxsrf=AJOqlzUuff1RXi2mm8I_OqOwT9VjfIDL7w:1676996143273&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiq-qK7gaf9AhXUgVYBHYReAfYQ_AUoA3oECAEQBQ&biw=1920&bih=937&dpr=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x78e75d7c9720>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 12:13:41] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 12:48:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 12:49:00] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 12:49:28] "[37mGET /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 12:53:39] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 12:54:02] "[37mGET /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Mar/2024 12:54:39] "[37mPOST /review HTTP/1.1[0m" 200 -
